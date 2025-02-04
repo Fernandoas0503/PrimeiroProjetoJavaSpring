@@ -1,4 +1,4 @@
-## Primeiro Projeto Java com Spring
+# Primeiro Projeto Java com Spring
 
 ## Sobre o projeto
 https://github.com/Fernandoas0503/PrimeiroProjetoJavaSpring
@@ -30,22 +30,22 @@ Como executar o projeto
 Back end
 Pré-requisitos: Java 11
 
-# clonar repositório
+## clonar repositório
 https://github.com/Fernandoas0503/PrimeiroProjetoJavaSpring
 
-# entrar na pasta do projeto back end
+## entrar na pasta do projeto back end
 cd c:\PrimeiroProjetoJavaSpring
 
-# executar o projeto
+## executar o projeto
 ./mvnw spring-boot:run
 
-# clonar repositório
+## clonar repositório
 git clone https://github.com/Fernandoas0503/PrimeiroProjetoJavaSpring.git
 
-# instalar dependências
+## instalar dependências
 yarn install
 
-# executar o projeto
+## executar o projeto
 yarn start
 Autor
 Fernando Alves dos Santos
