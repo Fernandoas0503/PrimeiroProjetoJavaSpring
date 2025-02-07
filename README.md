@@ -17,16 +17,14 @@ A aplicação consiste em curso intensivão gratuito com o professor Nélio Alve
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
 
 ## Tecnologias utilizadas
-Back end
-Java
-Spring Boot
-JPA / Hibernate
-Maven
-Implantação em produção
-Back end: Railway
-Bancos de dados: H2 e Postgresql
-Como executar o projeto
-Back end
+Back end: 
+Java; 
+Spring Boot; 
+JPA / Hibernate; 
+Maven. 
+Implantação em produção: 
+Railway; 
+Bancos de dados: H2 e Postgresql; 
 Pré-requisitos: Java 11
 
 ## clonar repositório
