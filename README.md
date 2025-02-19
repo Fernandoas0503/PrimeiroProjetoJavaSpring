@@ -36,7 +36,7 @@ git clone https://github.com/Fernandoas0503/PrimeiroProjetoJavaSpring.git
 ## Executar o projeto
 ./mvnw spring-boot:run
 
-## Executar o projeto
+## Breve descrição
 Com a plataforma sts(SpringtoolsSuite4.exe), importe o projeto Maven e clique em Restart.
 Autor
 Fernando Alves dos Santos
