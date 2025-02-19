@@ -34,14 +34,9 @@ cd c:\PrimeiroProjetoJavaSpring
 git clone https://github.com/Fernandoas0503/PrimeiroProjetoJavaSpring.git
 
 ## Executar o projeto
-./mvnw spring-boot:run
+Com a plataforma sts(SpringtoolsSuite4.exe), importe o projeto Maven e clique em Restart.
 
 ## Breve descrição
-Com a plataforma sts(SpringtoolsSuite4.exe), importe o projeto Maven e clique em Restart.
-Autor
-Fernando Alves dos Santos
-
-About
 dslist é uma aplicação back-end construída para entender o processo de desenvolvimento web desde o início. O objetivo é se desenvolver e dar os primeiros passos no mundo back-end com
 Apis Rest, Requisições com Postman, código limpo (Clean Code) e boas prátias de programação. É um sistema de coleções de jogos, onde pode-se armazenar e gerenciar os jogos de plataforma
 e os jogos RPG.
