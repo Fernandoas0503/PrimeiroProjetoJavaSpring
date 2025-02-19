@@ -27,14 +27,14 @@ Railway;
 Bancos de dados: H2 e Postgresql; 
 Pré-requisitos: Java 11
 
-## entrar na pasta do projeto back end
+## entrar na pasta do projeto back-end
 cd c:\PrimeiroProjetoJavaSpring
-
-## Executar o projeto
-./mvnw spring-boot:run
 
 ## Clonar repositório
 git clone https://github.com/Fernandoas0503/PrimeiroProjetoJavaSpring.git
+
+## Executar o projeto
+./mvnw spring-boot:run
 
 ## Executar o projeto
 Com a plataforma sts(SpringtoolsSuite4.exe), importe o projeto Maven e clique em Restart.
