@@ -41,8 +41,6 @@ Com a plataforma sts(SpringtoolsSuite4.exe), importe o projeto Maven e clique em
 Autor
 Fernando Alves dos Santos
 
-https://www.linkedin.com/in/fernando-alves0503/
-
 About
 dslist é uma aplicação back-end construída para entender o processo de desenvolvimento web desde o início. O objetivo é se desenvolver e dar os primeiros passos no mundo back-end com
 Apis Rest, Requisições com Postman, código limpo (Clean Code) e boas prátias de programação. É um sistema de coleções de jogos, onde pode-se armazenar e gerenciar os jogos de plataforma
