@@ -27,9 +27,6 @@ Railway;
 Bancos de dados: H2 e Postgresql; 
 Pré-requisitos: Java 11
 
-## clonar repositório
-https://github.com/Fernandoas0503/PrimeiroProjetoJavaSpring
-
 ## entrar na pasta do projeto back end
 cd c:\PrimeiroProjetoJavaSpring
 
